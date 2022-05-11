@@ -1,0 +1,64 @@
+.imp-date span{ 
+    color: white;
+    
+}
+.imp-date h1{
+    text-align: center;
+    color: #FF8000;
+}
+
+.imp-date{
+    text-align: center;
+    margin-top: 60px;
+}
+
+.date-table{
+    margin-top: 50px;
+    line-height: 2.5;
+    /* text-align:justify; */
+    
+}
+.orghead {
+    color: #FF8000;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.date-table tbody tr {
+    color: #ffffff;
+}
+
+.date-table tbody tr td:hover{
+    background-color: aliceblue;
+    color: black;
+    transition: .8s;
+    
+}
+
+.orghead{
+    color: #FF8000;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+
+
+
+
+.table-text{
+    text-align: center;
+}
+
+@media only screen and (max-width: 762px)  
+{
+    .date-table{
+        margin-top: 50px;
+        line-height: 1.5;
+    }
+    .imp-date{
+        text-align: center;
+        margin: 0;
+    }
+}
+
+
